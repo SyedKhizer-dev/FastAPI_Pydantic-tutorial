@@ -1,2 +1,8 @@
 .venv/
 venv/
+
+__pycache__/
+
+01_FastAPI/activity/__pycache__/
+
+testing.py
